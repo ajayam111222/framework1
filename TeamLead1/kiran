@@ -1,0 +1,5 @@
+public class kumar()
+{
+ system.out.println("ajay");
+ }
+ 
