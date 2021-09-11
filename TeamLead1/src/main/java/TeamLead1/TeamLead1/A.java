@@ -1,12 +1,11 @@
 package TeamLead1.TeamLead1;
 
-/**
- * Hello world!
- *
- */
+import org.testng.annotations.Test;
+
 public class A
 {
-    public static void main( String[] args )
+  @Test
+  public void ajay()
     {
         System.out.println( "Hello World!" );
     }
